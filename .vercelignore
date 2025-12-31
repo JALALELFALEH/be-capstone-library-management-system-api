@@ -1,0 +1,13 @@
+# Ignore everything except what's needed
+*
+!api/
+!api/index.py
+!library_management/
+!books/
+!users/
+!transactions/
+!manage.py
+!requirements.txt
+!vercel.json
+!.vercelignore
+!db.sqlite3
